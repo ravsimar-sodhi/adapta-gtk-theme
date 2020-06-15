@@ -130,7 +130,7 @@ menu.items.disabled.text.color: #C1C4C6
 
 menu.items.active.bg: flat solid
 menu.items.active.bg.color: #E7E9EA
-menu.items.active.text.color: #263238
+menu.items.active.text.color: #282828
 
 menu.separator.color: #E9EAEC
 

@@ -15,13 +15,13 @@
       "frame_incognito": [34, 45, 50],
       "frame_incognito_inactive": [34, 45, 50],
       "toolbar": [250, 251, 252],
-      "tab_text": [38, 50, 56],
+      "tab_text": [40, 40, 40],
       "tab_background_text": [144, 150, 154],
-      "bookmark_text": [38, 50, 56],
+      "bookmark_text": [40, 40, 40],
       "ntp_background": [255, 255, 255],
       "ntp_header": [42, 56, 62],
       "ntp_section": [229, 223, 236],
-      "ntp_text": [38, 50, 56],
+      "ntp_text": [40, 40, 40],
       "button_background": [0, 0, 0, 0]
     },
     "tints": {

@@ -21,15 +21,15 @@ SELECTED_FG_COLOR: #FFFFFF;                     // Selected foreground color
 2ND_SELECTED_FG_COLOR: #FFFFFFDE;               // Secondary selected foreground color (87%)
 OSD_FG_COLOR: #CFD8DC;                          // Tooltip foreground color
 PLACEHOLDER_COLOR: #78909C;                     // Placeholder foreground color
-FIXED_SECONDARY_FG_COLOR: #263238DE;            // Dark foreground color in dark variant (87%)
+FIXED_SECONDARY_FG_COLOR: #282828DE;            // Dark foreground color in dark variant (87%)
 
 ACCENT_LABEL_COLOR: #8DCDC8;                    // Action-area foreground color
 2ND_ACCENT_LABEL_COLOR: #8DCDC8DE;              // Secondary action-area foreground color (87%)
 
-BG_COLOR: #263238;                              // Main background color
-BASE_COLOR: #29353B;                            // Entry/Notebook background color
+BG_COLOR: #282828;                              // Main background color
+BASE_COLOR: #282828;                            // Entry/Notebook background color
 SECONDARY_BASE_COLOR: #28343A;                  // Popover/Menu background color
-SECONDARY_DARK_COLOR: #243035;                  // Inline-toolbar background color
+SECONDARY_DARK_COLOR: #1D2021;                  // Inline-toolbar background color
 DARK_COLOR: #222D32;                            // WindowFrame background color
 
 SEMI_FILL_COLOR: #39454B;                       // Hovered button background color (Bg + 12%)
@@ -63,7 +63,7 @@ YELLOW: #FFEB3B;
 GREEN: #4CAF50;
 BLUE: #2196F3;
 
-SCROLLBAR_BG: #29353B8C;                        // Trough color (55%)
+SCROLLBAR_BG: #2828288C;                        // Trough color (55%)
 SCROLLBAR_SLIDER_BG: #CFD8DC47;                 // Slider color (28%)
 SCROLLBAR_SLIDER_HOVER_BG: #CFD8DC69;           // Hovered slider color (41%)
 

@@ -82,7 +82,7 @@ style "notify-progressbar"
   bg[NORMAL]   = "#F0F2F3"
   bg[SELECTED] = "#F0F2F3"
   bg[ACTIVE]   = "#4DB6AC"
-  fg[PRELIGHT] = "#263238"
+  fg[PRELIGHT] = "#282828"
 }
 
 class "XfceNotifyWindow"                           style "notify-window"

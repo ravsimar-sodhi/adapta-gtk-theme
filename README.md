@@ -292,8 +292,8 @@ Extra Browser Support
  >
  >   * Vivaldi can make custom themes via settings like these:
  >     ```
- >     Background: #FAFBFC (#263238)
- >     Foreground: #263238 (#CFD8DC)
+ >     Background: #FAFBFC (#282828)
+ >     Foreground: #282828 (#CFD8DC)
  >     Highlight:  #00BCD4
  >     Accent:     #222D32
  >     Accent Color from Active Page: [ ]
